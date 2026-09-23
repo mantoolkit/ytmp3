@@ -1,6 +1,6 @@
 <div align="center">
   
-[![YTMP3](https://raw.githubusercontent.com/mantoolkit/ytmp3/refs/heads/main/svg/logo.svg)](#readme)
+[![YTMP3](https://raw.githubusercontent.com/mantoolkit/ytmp3/refs/heads/main/logo.svg)](#readme)
 
 </div>
 
